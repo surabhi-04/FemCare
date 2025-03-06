@@ -1,6 +1,4 @@
-<p align="center">
- <img src="FemCare/img/Light Blue and Orange Illustration Medical Facebook Cover.png" width="660px">
-</p>
+
 <h1 align="center">
 	FemCare
 </h1>
